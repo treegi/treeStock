@@ -8,7 +8,7 @@ with open('requirements.txt') as fid:
 
 setup(
     name='treeStock',
-    version='0.0.1',
+    version='0.0.2',
     description='Tree code feature functions',
     author='tree4101',
     author_email='treegi4101@gmail.com',

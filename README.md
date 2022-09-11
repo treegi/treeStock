@@ -12,3 +12,6 @@ pip install git+ssh://git@github.com/treegi/treeStock.git
 * 0.0.1
     增加treeCode爬蟲模組
     getCodeList
+
+* 0.0.2
+    增加crawlType，可以爬取股票種類編號。
